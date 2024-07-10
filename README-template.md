@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./starter-code/assets/screenshots/Screenshot-desktop-view.png)
+![](./assets/screenshots/Screenshot-desktop-view.png)
 
 ### Links
 
